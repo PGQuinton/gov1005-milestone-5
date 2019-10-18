@@ -1,0 +1,23 @@
+---
+title: "Milestone 5"
+author: "Pieter Quinton"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#About the Project  
+
+My aim, in the final project, is to examine the housing market of Portland, Oregon. During the summer after my sophomore year, I spent time working with a company that builds accessory dwelling units in Portland. One of the aims of the company was to help solve the housing stock shortage within the city. As a city in high demand and zoned primarily for single family homes, Portland, like many large American cities, is facing a housing crisis. My hope for this project is to use available data to learn more about how the housing market in Portland has changed over recent years and how that has affected the affordability and accessibility of housing in the metropolitan area.
+
+#About the Data  
+
+The data I am planning on using for the project is from two main sources. I have data from Zillow to show national trends in urban and suburban housing and rental markets. I also have annual data from the American Community Survey, conducted by the Census Bureau, that gives me more localized data on the Portland market. This data allows me to analyze both the prices/costs as well as the types of housing that make up the Portland market and how they have changed over the past decade or so. 
+
+
+#About Me
+
+I, Pieter Quinton, am a senior at Harvard College studying Government with a secondary focus in Economics. 
